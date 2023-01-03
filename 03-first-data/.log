@@ -1,0 +1,24 @@
+2021-06-01 14:52:57,876 [95243] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2021-06-01 14:52:57,876 [95243] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2021-06-01 14:52:57,876 [95243] INFO     root:247: [JupyterRequire] Initializing comms.
+2021-06-01 14:52:57,878 [95243] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2021-06-01 14:52:57,879 [95243] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2021-06-01 14:52:57,879 [95243] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2021-06-01 14:52:58,392 [95243] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2021-06-01 14:52:58,392 [95243] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2021-06-01 14:52:58,392 [95243] INFO     root:247: [JupyterRequire] Initializing comms.
+2021-06-01 14:52:58,394 [95243] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2021-06-01 14:52:58,395 [95243] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2021-06-01 14:52:58,395 [95243] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2021-06-01 15:09:22,769 [95243] DEBUG    parso.python.diff:282: [JupyterRequire] diff parser start
+2021-06-01 15:09:22,770 [95243] DEBUG    parso.python.diff:293: [JupyterRequire] line_lengths old: 22; new: 1
+2021-06-01 15:09:22,771 [95243] DEBUG    parso.python.diff:297: [JupyterRequire] -> code[replace] old[1:22] new[1:1]
+2021-06-01 15:09:22,771 [95243] DEBUG    parso.python.diff:425: [JupyterRequire] parse_part from 1 to 1 (to 0 in part parser)
+2021-06-01 15:09:22,771 [95243] DEBUG    parso.python.diff:339: [JupyterRequire] diff parser end
+2021-06-01 15:09:22,795 [95243] DEBUG    parso.cache:143: [JupyterRequire] pickle loaded: /Applications/anaconda3/lib/python3.7/random.py
+2021-06-01 15:15:07,135 [95896] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2021-06-01 15:15:07,135 [95896] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2021-06-01 15:15:07,135 [95896] INFO     root:247: [JupyterRequire] Initializing comms.
+2021-06-01 15:15:07,137 [95896] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2021-06-01 15:15:07,138 [95896] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2021-06-01 15:15:07,138 [95896] DEBUG    root:97: [JupyterRequire] Registering comm targets.

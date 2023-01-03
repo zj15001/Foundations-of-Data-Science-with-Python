@@ -1,0 +1,25 @@
+Firearms mortality data from CDC:https://www.cdc.gov/nchs/pressroom/sosmap/firearm_mortality/firearm.htm
+
+Electoral count data https://www.archives.gov/electoral-college/2020
+(Excluded DC because not in firearms data)
+
+---
+more-gun-data.csv from 
+https://www.usatoday.com/story/news/nation/2018/02/21/states-most-and-least-gun-violence-see-where-your-state-stacks-up/359395002/
+
+---
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/ucd-icd10.html on Jul 11, 2022 11:34:52 PM"
+
+
+Data from CDC Wonder
+homicide ICD-10 codes X93, X94, X95
+suicide ICD-10 codes: X72, X73, X74
+
+Homicides: wonder-homicides-2020.tsv
+Suicides: wonder-suicides-2020.tsv
+
+Permitless carry data from https://en.wikipedia.org/wiki/Constitutional_carry and source documents
+permitless carry for handguns by state residents passed prior to 2020

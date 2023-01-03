@@ -1,0 +1,29 @@
+My ideas:
+
+Average numbers, 2 ways -- extend to calculate expected value
+
+Fourier idea: determine frequency content of signal
+
+Determining net velocity of an airplane given information on velocity from engines plus wind speed velocity
+
+Determine the angle between two vectors
+
+Calculation of work done through using a force to move an object
+
+Representation of a linear function in any number of dimensions
+
+Word2Vec - represent a word as a vector, where similar worlds will have vectors that are close to each other 
+
+
+------
+FROM QUORA
+
+Below are some uses:
+
+Finding angle between 2 vectors or 2 straight lines, angle between 2 intersecting planes, angle between plane and straight line.
+Finding projection of a vector onto another unit vector. Applications include finding projection of a force onto a specified axis.
+Checking whether 2 vectors are perpendicular.
+Finding work done by a force.
+Multiplication of matrices in linear algebra involve taking dot product of the row in left matrix with column in right matrix.
+
+------------------------------------
