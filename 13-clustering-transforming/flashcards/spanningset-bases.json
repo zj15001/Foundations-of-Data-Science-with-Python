@@ -1,7 +1,7 @@
 [
     {
         "front": "standard basis",
-        "back": "In a Euclidean vector space, the <I>standard basis</I> consists of a set of unique vectors whose components are all zeros except for a single 1. <b>Example:</b> For $\\mathbb{R}^2$, the standard basis is \\begin{equation*} \\left\\{ \\mathbf{e}_x = \\left[1, 0 \\right], ~ \\mathbf{e}_y = \\left[0, 1 \\right] \\right\\}. \\end{equation*}"
+        "back": "In a Euclidean vector space, the <I>standard basis</I> consists of a set of unique vectors whose components are all zeros except for a single&nbsp;1. <b>Example:</b> For $\\mathbb{R}^2$, the standard basis is \\begin{equation*} \\left\\{ \\mathbf{e}_x = \\left[1, 0 \\right], ~ \\mathbf{e}_y = \\left[0, 1 \\right] \\right\\}. \\end{equation*}"
     }, 
     {
         "front": "orthonormal set (of vectors)",
