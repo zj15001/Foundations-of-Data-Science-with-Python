@@ -20,6 +20,10 @@
         "back": "A  set of vectors $\\mathcal{S}$ is a basis for a set of vectors $\\mathcal{Z}$ if $\\mathcal{S}$ is a minimal spanning set for $\\mathcal{Z}$."
     },
     {
+        "front": "orthonormal basis<br>(vector space)",
+        "back":" A set of vectors $\\mathcal{S}$ is an orthonormal basis for a set of vectors $\\mathcal{Z}$ if 1) $\\mathcal{S}$ is an orthonormal set, and 2) $\\mathcal{S}$ is a minimal spanning set for $\\mathcal{Z}$."
+    },
+    {
         "front": "dimension<br>(vector space)",
         "back": "Given a set of vectors $\\mathcal{Z}$ in a vector space, the dimension of $\\mathcal{Z}$, denoted $\\operatorname{dim} \\mathcal{Z}$ is the cardinality of a basis for $\\mathcal{Z}$."
     }
