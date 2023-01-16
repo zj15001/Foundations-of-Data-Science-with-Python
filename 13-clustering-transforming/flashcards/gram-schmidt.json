@@ -5,7 +5,7 @@
     }, 
     {
         "front": "linearly dependent vectors",
-        "back": "A set of vectors  are <i>linearly dependent</i> if one of these vectors can be written as a linear combination of the other."
+        "back": "A set of vectors  are <i>linearly dependent</i> if any of the vectors can be written as a linear combination of the other."
     }, 
     {
         "front": "linearly independent vectors",
