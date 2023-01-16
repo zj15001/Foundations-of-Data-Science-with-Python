@@ -13,7 +13,7 @@
     }, 
     {
         "front": "rank<br>(of a matrix)",
-        "back": "Given a matrix $\\mathbf{M}$, the rank is equal to the maximum number linearly independent columns (or, equivalently, the maximum number of linearly independent rows). It is denoted by $\\operatorname{rank} \\mathbf{M}$."
+        "back": "Given a matrix $\\mathbf{M}$, the rank is equal to the maximum number of linearly independent columns (or, equivalently, the maximum number of linearly independent rows). It is denoted by $\\operatorname{rank} \\mathbf{M}$."
     }, 
     {
         "front": "full rank matrix",
