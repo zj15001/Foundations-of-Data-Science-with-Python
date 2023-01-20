@@ -1,0 +1,8 @@
+People.csv is a list of Major League Baseball Players up to the end of 2022. It 
+was retrieved from the Baseball Databank maintained by the Chadwick Baseball Bureau
+and used under the Creative Commons Attribution-ShareAlike 3.0 Unported License.
+The data was retrieved on January 19, 2023 from:
+
+https://raw.githubusercontent.com/chadwickbureau/baseballdatabank/master/core/People.csv
+
+
