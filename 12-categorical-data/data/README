@@ -6,3 +6,6 @@ The data was retrieved on January 19, 2023 from:
 https://raw.githubusercontent.com/chadwickbureau/baseballdatabank/master/core/People.csv
 
 
+births.csv is a translation of the births.rda file from the R Lifespan Package : 
+
+https://github.com/datawookie/lifespan
