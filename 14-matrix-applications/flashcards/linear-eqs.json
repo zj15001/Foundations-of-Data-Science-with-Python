@@ -9,7 +9,7 @@
     },
     {
     "front": "system of linear equations",
-    "back": "A collection of linear equations on a common $n$-dimensional space (typically $\\mathbb{R}^n$) that are interpreted together, typically with the purpose of finding the subset of the space that satisfy all of the equations simultaneously."
+    "back": "A collection of linear equations on a common $n$-dimensional space (typically $\\mathbb{R}^n$) that are interpreted together, typically with the purpose of finding the subset of the space that satisfies all of the equations simultaneously."
     },
     {
         "front": "overdetermined<br>(system of equations)",
