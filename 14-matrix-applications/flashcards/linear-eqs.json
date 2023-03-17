@@ -1,5 +1,9 @@
 [
     {
+    "front": "solution set",
+    "back": "Given an equation the *solution set* is the set of all points that satisfy the equation. For a collection of equations, the solution set is the set of all points that simultaneously satisfy all of the equations."
+    },
+    {
     "front": "linear equation",
     "back": "An polynomial in one or more variables, in which all the variables have degree 1. For example, \\begin{equation*} \\sum_{i=0}^{n-1} a_i x_i = c. \\end{equation*}"
     },
