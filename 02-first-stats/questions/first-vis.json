@@ -44,5 +44,26 @@
       }
 
     ]
+  },
+    {
+      "question": "Which of the following is true of histograms",
+      "type": "multiple_choice",
+      "answers": [
+          {
+          "answer": "Can only be used with discrete data",
+          "correct": false,
+          "feedback": "False. Histograms bin data together, and this allows it to be used with continuous data"
+      },
+          {
+          "answer": "Can only be used with continuous data",
+          "correct": false,
+          "feedback": "False. Histograms can be used to count discrete data, either with one value per bin or multiple values per bin"
+
+      },
+          {
+          "answer": "Can be used with continuous or discrete data",
+          "correct": true
+      }
+      ]
   }
 ]
